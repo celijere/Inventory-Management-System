@@ -1,0 +1,14 @@
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\bin\Debug\CeliaJeremejevs-C968-TASK1-BFM2.exe.config
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\bin\Debug\CeliaJeremejevs-C968-TASK1-BFM2.exe
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\bin\Debug\CeliaJeremejevs-C968-TASK1-BFM2.pdb
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.csproj.AssemblyReference.cache
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\CeliaJeremejevs_C968_TASK1_BFM2.Properties.Resources.resources
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.csproj.GenerateResource.cache
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.csproj.CoreCompileInputs.cache
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\CeliaJeremejevs-C968-TASK1-BFM2.exe
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\CeliaJeremejevs-C968-TASK1-BFM2.pdb
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.AddPart.resources
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.AddProduct.resources
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.MainScreen.resources
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.ModifyPart.resources
+C:\Users\Celia\source\repos\CeliaJeremejevs-C968-TASK1-BFM2\CeliaJeremejevs-C968-TASK1-BFM2\obj\Debug\IMS.ModifyProduct.resources

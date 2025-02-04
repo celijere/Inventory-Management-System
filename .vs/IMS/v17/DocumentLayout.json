@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|c:\\users\\celia\\source\\repos\\celiajeremejevs-c968-task1-bfm2\\celiajeremejevs-c968-task1-bfm2\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|solutionrelative:celiajeremejevs-c968-task1-bfm2\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|solutionrelative:CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\AddPart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|solutionrelative:CeliaJeremejevs-C968-TASK1-BFM2\\AddPart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|solutionrelative:CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|solutionrelative:CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9ACEFFB-4A30-430D-9E2D-EED8C605E22E}|CeliaJeremejevs-C968-TASK1-BFM2\\IMS.csproj|solutionrelative:CeliaJeremejevs-C968-TASK1-BFM2\\AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "RelativeDocumentMoniker": "CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "RelativeToolTip": "CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:11:45.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModifyProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "RelativeDocumentMoniker": "CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "ToolTip": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "RelativeToolTip": "CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:11:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPart.cs",
+              "DocumentMoniker": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\AddPart.cs",
+              "RelativeDocumentMoniker": "CeliaJeremejevs-C968-TASK1-BFM2\\AddPart.cs",
+              "ToolTip": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\AddPart.cs",
+              "RelativeToolTip": "CeliaJeremejevs-C968-TASK1-BFM2\\AddPart.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:16:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModifyProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "RelativeDocumentMoniker": "CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "ToolTip": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "RelativeToolTip": "CeliaJeremejevs-C968-TASK1-BFM2\\ModifyProduct.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwK0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:49:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "RelativeDocumentMoniker": "CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "RelativeToolTip": "CeliaJeremejevs-C968-TASK1-BFM2\\MainScreen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:48:20.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\AddProduct.cs",
+              "RelativeDocumentMoniker": "CeliaJeremejevs-C968-TASK1-BFM2\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\Celia\\source\\repos\\CeliaJeremejevs-C968-TASK1-BFM2\\CeliaJeremejevs-C968-TASK1-BFM2\\AddProduct.cs",
+              "RelativeToolTip": "CeliaJeremejevs-C968-TASK1-BFM2\\AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:06:48.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
